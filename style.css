@@ -2,11 +2,10 @@ body {
     font-family: sans-serif;
 }
 img{
-    weight:100px;
-    height:100px;
+    weight:100 px;
+    height:100 px;
+    opacity: 0.5;
 }
-
-.phone{
-    width: 30px;
-    height:30px
+img:hover {
+    opacity: 1;
 }
